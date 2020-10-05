@@ -1,7 +1,7 @@
 # Cucumber-js
 
 This is the last version in the `cucumber` series. New releases will henceforth
-be made under the `@cucumber/cucumber` package name.
+be made under [the `@cucumber/cucumber` package name](https://www.npmjs.com/package/@cucumber/cucumber).
 
 By installing this version you are implicitly installing the new `@cucumber/cucumber`
 package.
